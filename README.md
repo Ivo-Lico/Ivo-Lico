@@ -4,7 +4,7 @@
 🌱 Actualmente estoy aprendiendo y probando redux y firebase.
 💞️ Me gustaría colaborar en projectos de react
 📫 Contacto: analogic.hd@gmail.com
---------------------------------------------------------------
+
 👋 Hi, I’m Ivo
 👀 I’m interested in frontend develop and motion graphics
 🌱 I’m currently learning and testing redux and firebase
